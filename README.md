@@ -27,10 +27,4 @@ IndiaRising-Hackathon
 > Pictures taken from the Social sites.<br/>
 > Home page main picture took from http://theuglyindianfan.blogspot.in/2011/12/tui-cartoon-birthday-card.html -<i>Thanks to       Jai.</i><br/>
 
-
-
-
-
-
-
 IndiaRising-Hackathon
