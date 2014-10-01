@@ -1,0 +1,7 @@
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\bin\Release\TUI.IDAL.dll
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\bin\Release\TUI.IDAL.pdb
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\bin\Release\TUI.DTO.dll
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\bin\Release\TUI.DTO.pdb
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\obj\Release\TUI.IDAL.csprojResolveAssemblyReference.cache
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\obj\Release\TUI.IDAL.dll
+E:\Vicky\WebFixer.co\TUI\TUI.IDAL\obj\Release\TUI.IDAL.pdb
