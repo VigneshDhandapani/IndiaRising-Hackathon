@@ -1,0 +1,14 @@
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\bin\Debug\TUI.IDAL.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\bin\Debug\TUI.IDAL.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\bin\Debug\TUI.DTO.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\bin\Debug\TUI.DTO.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.csprojResolveAssemblyReference.cache
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\bin\Debug\TUI.IDAL.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\bin\Debug\TUI.IDAL.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\bin\Debug\TUI.DTO.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\bin\Debug\TUI.DTO.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.IDAL\obj\Debug\TUI.IDAL.pdb

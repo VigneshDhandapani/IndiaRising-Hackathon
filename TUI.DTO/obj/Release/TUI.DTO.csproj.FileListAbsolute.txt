@@ -1,0 +1,5 @@
+E:\Vicky\WebFixer.co\TUI\TUI.DTO\bin\Release\TUI.DTO.dll
+E:\Vicky\WebFixer.co\TUI\TUI.DTO\bin\Release\TUI.DTO.pdb
+E:\Vicky\WebFixer.co\TUI\TUI.DTO\obj\Release\TUI.DTO.csprojResolveAssemblyReference.cache
+E:\Vicky\WebFixer.co\TUI\TUI.DTO\obj\Release\TUI.DTO.dll
+E:\Vicky\WebFixer.co\TUI\TUI.DTO\obj\Release\TUI.DTO.pdb

@@ -1,0 +1,23 @@
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.DAL.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.DAL.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.DTO.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.IDAL.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.DTO.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\TUI.IDAL.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.csprojResolveAssemblyReference.cache
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DAL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.DAL.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.DAL.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.DTO.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.IDAL.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.DTO.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\bin\Debug\TUI.IDAL.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.csprojResolveAssemblyReference.cache
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DAL\obj\Debug\TUI.DAL.pdb

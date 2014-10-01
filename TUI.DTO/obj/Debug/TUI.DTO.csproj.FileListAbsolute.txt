@@ -1,0 +1,9 @@
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DTO\bin\Debug\TUI.DTO.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DTO\bin\Debug\TUI.DTO.pdb
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DTO\obj\Debug\TUI.DTO.dll
+F:\Docs\STUDY MATERIALS\Project\Vignesh\TUI\TUI\TUI.DTO\obj\Debug\TUI.DTO.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DTO\bin\Debug\TUI.DTO.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DTO\bin\Debug\TUI.DTO.pdb
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DTO\obj\Debug\TUI.DTO.csprojResolveAssemblyReference.cache
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DTO\obj\Debug\TUI.DTO.dll
+C:\Users\NEW\Downloads\TUI\TUI\TUI.DTO\obj\Debug\TUI.DTO.pdb
